@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\models\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|d:\\siam\\university course metarials\\11th semester\\.net\\labs\\lab1\\lab1\\viewmodel\\sampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\viewmodel\\sampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\views\\sports\\stadium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\sports\\stadium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|d:\\siam\\university course metarials\\11th semester\\.net\\labs\\lab1\\lab1\\views\\sports\\player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\sports\\player.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\views\\sports\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\sports\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\lab1\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFF37EC-BC92-4F94-B75F-99BE0F33194C}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleViewModel.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\ViewModel\\SampleViewModel.cs",
+              "RelativeDocumentMoniker": "Lab1\\ViewModel\\SampleViewModel.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\ViewModel\\SampleViewModel.cs",
+              "RelativeToolTip": "Lab1\\ViewModel\\SampleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:04:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lab1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lab1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:50:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stadium.cshtml",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Stadium.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Sports\\Stadium.cshtml",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Stadium.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Sports\\Stadium.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:50:25.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cshtml",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Player.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Sports\\Player.cshtml",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Player.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Sports\\Player.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:49:51.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stadium.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Stadium.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Stadium.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Stadium.cs",
+              "RelativeToolTip": "Lab1\\Models\\Stadium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:49:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Staff.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Staff.cs",
+              "RelativeToolTip": "Lab1\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:48:51.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Player.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Models\\Player.cs",
+              "RelativeToolTip": "Lab1\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:48:31.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsController.cs",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Controllers\\SportsController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\SportsController.cs",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Controllers\\SportsController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\SportsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:47:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cshtml",
+              "DocumentMoniker": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Staff.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Sports\\Staff.cshtml",
+              "ToolTip": "D:\\Siam\\University Course Metarials\\11th semester\\.Net\\labs\\Lab1\\Lab1\\Views\\Sports\\Staff.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Sports\\Staff.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:50:09.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

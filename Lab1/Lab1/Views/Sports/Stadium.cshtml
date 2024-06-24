@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Stadium";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Stadium</h2>
+
+@if (ViewBag.Stadium != null && ViewBag.Stadium.Count > 0)
+{
+    <ul>
+        @foreach (var stadium in ViewBag.Stadium)
+        {
+            <li>Location: @stadium.Location, Capacity: @stadium.Capacity</li>
+        }
+    </ul>
+
+
+}

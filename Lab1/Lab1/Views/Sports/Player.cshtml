@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Player";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Lab1.Models.Player>
+
+
+
+<h2>Player</h2>
+@*@if (ViewBag.Players != null && ViewBag.Players.Count > 0)
+    {
+        <ul>
+            @foreach(var player in ViewBag.Players)
+                    {
+                        <li>Id: @player.Id, Name: @player.Name, Salary: @player.Salary</li>
+                    }
+        </ul>
+
+
+      }*@
+
+<ul>
+    @foreach (var player in Model)
+    {
+        <li>Id: @player.Id, Name: @player.Name, Salary: @player.Salary</li>
+    }
+</ul>
